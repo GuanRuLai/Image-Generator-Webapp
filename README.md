@@ -47,10 +47,5 @@ python your_script.py
   - 滑桿 (`Slider`) 讓使用者選擇生成圖片數量。
   - 圖片畫廊 (`Gallery`) 來顯示結果。
 
-## 未來改進方向
-- **支援更多 FLUX 模型**：增加不同 FLUX 模型的選擇，如 `FLUX.1-mega`。
-- **增加參數調整功能**：例如 `num_inference_steps`、`guidance_scale` 等參數。
-- **支援多語言描述**：目前適用英文，未來可支援中文或其他語言輸入。
-
 ## 授權條款
 本專案採用 **MIT License**，允許自由使用與修改，惟請保留原始授權條款。

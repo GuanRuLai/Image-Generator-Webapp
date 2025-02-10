@@ -1,5 +1,3 @@
-# Python-Project-PetAvatar_Webapp
-
 ## 專案介紹
 本專案是一個基於 `FluxPipeline` 文字生成圖片的應用，使用 **FLUX.1 [schnell]** 模型，並透過 `Gradio` 建立簡單易用的網頁介面，讓使用者可以根據輸入的文本描述生成對應的圖片。
 
